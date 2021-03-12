@@ -7,7 +7,7 @@ class Video_detail_page extends StatelessWidget {
     // TODO: implement build
     return Scaffold(
       appBar: AppBar(
-        title: Text("Video_detail"),
+        title: Text("Video_detail^change"),
       ),
       body: Center(),
     );
